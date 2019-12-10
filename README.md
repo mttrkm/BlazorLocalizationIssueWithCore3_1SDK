@@ -1,6 +1,5 @@
 # BlazorLocalizationIssueWithCore3_1SDK
-This project is minimum localization sample.
-Blazor server localization issue in Visual Studio 16.4 + .NET Core 3.1 SDK.
+This project is minimum localization sample. It is usable To reproduce Blazor server localization issue in Visual Studio 16.4 + .NET Core 3.1 SDK.
 
 Localization works with Visual Studio 16.3.10 + .NET Core 3.0 SDK.  
 But that does not work by upgrading Visual Studio 16.4 + .NET Core 3.1 SDK.
