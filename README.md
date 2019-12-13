@@ -12,3 +12,7 @@ This project was created in the following way.
 1. Add some code in Index.razor
 1. Add a file of SharedResource.cs
 1. Add a file of SharedResource.en.resx
+
+
+## workaround.
+To move SharedResource.cs from the Resources folder to the root.
